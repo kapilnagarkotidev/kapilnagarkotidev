@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapilnagarkotidev
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning AI & Robotics Engineering
 - 📫 kapilnagarkoti0@gmail.com
 
 <!---
