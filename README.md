@@ -1,7 +1,6 @@
 [![Header](./your-header-image-name.png)]
 <h1 align="center">Hi 👋, I'm Kapil Nagarkoti</h1>
 <h3 align="center">A passionate full stack web developer from Nepal.</h3>
-<img align = "right" width ="100" src = "https://media0.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76119xr4oz62y3adncelsup2mhdtf3cc3ff7fuhvoz2p&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilnagarkotidev&label=Profile%20views&color=0e75b6&style=flat" alt="kapilnagarkotidev" /> </p>
 
