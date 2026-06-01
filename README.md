@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently learning web development.<br>
+💻Learning AI & ML Engineering while working as a factory worker in Japan. Start date: June 1st 2026<br>
 
 
 ## 🌐 Socials:
